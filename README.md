@@ -1,5 +1,9 @@
 # Implicit Flow Coding Dojo
 
+----
+**⚠ Warning:** This repository is _frozen in time_, and getting no new (security) updates. It is left public, should it help and offer some guidance around its subjects to future visitors. However, for latest guidance on involved subjects, we recommend going to the official sources.
+----
+
 This workshop leads you to create an OAuth2 and OpenID Connect Identity Server, and an Angular SPA that uses Implicit flow to let users log in using that ID Server.
 
 ## Introduction
